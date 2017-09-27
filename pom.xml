@@ -370,7 +370,7 @@
                 <version>${cobertura.version}</version>
                 <configuration>
                     <check>
-                            <haltOnFailure>true</haltOnFailure>
+                            <haltOnFailure>false</haltOnFailure>
                    </check>
                 </configuration>
                 <executions>
